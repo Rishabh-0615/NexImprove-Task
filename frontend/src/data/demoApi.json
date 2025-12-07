@@ -1,0 +1,28 @@
+{
+  "shipments": [
+    {
+      "id": "SHP-001",
+      "exporter": "Global Trade Inc",
+      "importer": "Pacific Imports LLC",
+      "status": "Cleared Customs",
+      "value": 54000,
+      "country": "USA"
+    },
+    {
+      "id": "SHP-002",
+      "exporter": "IndoAgro Exports",
+      "importer": "Green Foods Pty Ltd",
+      "status": "Pending Inspection",
+      "value": 26000,
+      "country": "Australia"
+    },
+    {
+      "id": "SHP-003",
+      "exporter": "EuroMach GmbH",
+      "importer": "SteelWorks LLC",
+      "status": "Processing",
+      "value": 134000,
+      "country": "Germany"
+    }
+  ]
+}
